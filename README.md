@@ -1,5 +1,5 @@
 # -20185111040-
-利用百度文字识别引擎识别网络图片文字
+#利用百度文字识别引擎识别网络图片文字
 MyPath = ")E:\\python\\xxxxx\\"#这是读取的图片存放的文件夹的路径，可以改为要读取的文件夹
 filesoure = MyPath
 def baiduduqu(filesoure,filename):
